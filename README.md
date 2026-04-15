@@ -13,3 +13,9 @@ codex
 ```
 ###### The first time you run Codex, you'll be prompted to sign in. Authenticate with your ChatGPT account or an API key.
 ###### See the pricing page if you're not sure which plans include Codex access.
+
+#### Upgrade---
+###### New versions of the Codex CLI are released regularly. See the changelog for release notes. To upgrade with npm, run:
+```bash
+npm i -g @openai/codex@latest
+```
